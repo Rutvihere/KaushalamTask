@@ -11,9 +11,9 @@
 ### Backend
 - Node.js
 - Express.js
-- MongoDB (if applicable)
-- Mongoose (if using MongoDB)
-- JWT (if using authentication)
+- MongoDB 
+- Mongoose 
+- JWT
 - dotenv (for environment variables)
 
 ## Installation
